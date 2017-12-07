@@ -1,3 +1,5 @@
+[![Travis](https://img.shields.io/travis/dansiviter/cito-sockjs/master.svg?style=flat-square)](https://travis-ci.org/dansiviter/cito-sockjs) [![Codacy grade](https://img.shields.io/codacy/grade/56fba7665504477eb9f690beb5b588d4.svg?style=flat-square)](https://www.codacy.com/app/dansiviter/cito-sockjs) [![Codacy coverage](https://img.shields.io/codacy/coverage/56fba7665504477eb9f690beb5b588d4.svg?style=flat-square)](https://www.codacy.com/app/dansiviter/cito-sockjs)
+
 # Citō SockJS #
 
 This implements the [v0.3.3](https://sockjs.github.io/sockjs-protocol/sockjs-protocol-0.3.3.html) of the SockJS Protocol mapping to the JSR 356 WebSocket specification using Servlet Non-Blocking where possible.
